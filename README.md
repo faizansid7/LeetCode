@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/faizansid7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/faizansid7/LeetCode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/faizansid7/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [2048-build-array-from-permutation](https://github.com/faizansid7/LeetCode/tree/master/2048-build-array-from-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -34,4 +35,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/faizansid7/LeetCode/tree/master/0007-reverse-integer) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/faizansid7/LeetCode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
