@@ -1,9 +1,6 @@
 public class Solution {
     public bool IsValid(string str) {
         Stack<char> stack = new Stack<char>();
-        if(str.Length < 2){
-			return false;
-		}
         for(int i=0; i<str.Length; i++)
 		{
 			if(str[i]=='(' || str[i]=='{' || str[i]=='[')
