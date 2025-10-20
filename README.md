@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/faizansid7/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/faizansid7/LeetCode/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/faizansid7/LeetCode/tree/master/0383-ransom-note) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/faizansid7/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -57,12 +58,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/faizansid7/LeetCode/tree/master/0383-ransom-note) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/faizansid7/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/faizansid7/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/faizansid7/LeetCode/tree/master/0020-valid-parentheses) |
+| [0383-ransom-note](https://github.com/faizansid7/LeetCode/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
