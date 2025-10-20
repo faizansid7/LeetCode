@@ -1,8 +1,5 @@
 public class Solution {
     public bool CanConstruct(string ransomNote, string magazine) {
-        if(magazine.Length < ransomNote.Length)
-            return false;
-        
         Dictionary<char, int> pool = new Dictionary<char, int>();
         for(int i=0; i<magazine.Length; i++){
             if(!pool.ContainsKey(magazine[i])){
